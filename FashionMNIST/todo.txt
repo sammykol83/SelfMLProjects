@@ -1,0 +1,4 @@
+Here is list of stuff I can do to improve performance of my model:
+
+1. Generate more data by augmentation. Specifically, after viewing the data, I don't see rotations, so I can at least try 
+horizontal flipping of the images or try to play a bit with their colorscale. I don't think there are any rotations. 
